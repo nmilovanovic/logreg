@@ -1,0 +1,2 @@
+# logreg
+Logisticka regresija
